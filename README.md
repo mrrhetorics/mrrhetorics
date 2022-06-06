@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving and helping others grow.
 - 🌱 I’m currently learning python, mysql and Database Management systems.
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/shobhit-p-919370a2/
 
 <!---
 mrrhetorics/mrrhetorics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
